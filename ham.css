@@ -1,0 +1,66 @@
+#bread{
+    background-color: #edb45e;
+    border: 3px solid black;
+    width: 70px;
+    height: 25px;
+    border-top-right-radius: 2em;
+    border-top-left-radius: 2em;
+    box-shadow: 0px 0px 10px gray;
+}
+#lechuga{
+    background-color: lightgreen;
+    margin-top: 1px;
+    width: 80px;
+    height: 8px;
+    border: 3px black solid;
+    border-radius: 1em;
+    box-shadow: 0px 0px 10px gray;
+}
+#cheese{
+    background-color: yellow;
+    border: 3px solid black;
+    width: 88px;
+    height: 8px;
+    margin-top: 1px;
+    border-radius: 1em;
+    box-shadow: 0px 0px 10px gray;
+}
+#tomate1{
+    background-color: red;
+    border: 3px solid black;
+    width: 30px;
+    height: 8px;
+    margin-top: 1px;
+    margin-right: 40px;
+    border-radius: 1em;
+    box-shadow: 0px 0px 10px gray;
+}
+#tomate2{
+    background-color: red;
+    border: 3px solid black;
+    width: 30px;
+    height: 8px;
+    margin-top: -14px;
+    margin-left:40px;
+    border-radius: 1em;
+    box-shadow: 0px 0px 10px gray;
+}
+#meat{
+    background-color: brown;
+    border: solid black 3px;
+    width: 80px;
+    height: 15px;
+    margin-top: 1px;
+    border-radius: 1em;
+    box-shadow: 0px 0px 10px gray;
+}
+#bread2{
+    background-color: #edb45e;
+    border: 3px solid black;
+    width: 70px;
+    height: 10px;
+    border-bottom-right-radius: 2em;
+    border-bottom-left-radius: 2em;
+    margin-top: 1px;
+    box-shadow: 0px 0px 10px gray;
+}
